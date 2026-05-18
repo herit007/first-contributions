@@ -5,14 +5,14 @@
 - [lareinafan](https://github.com/lareinafan)
 - [Prerna Raj](https://github.com/Prerna-2801)
 - [AyushTurale](https://github.com/AyushTurale)
-- Immanuel 
+- Immanuel
 - [**Jatin Awankar**](https://jatinawankar.dev)👽
 - [Janmejay Shibaprasad Mahanta](https://github.com/janmejay1438)
 - [Saiteja]
 - [Saikiran Palli]
 - [xzh]
 - [Nebal Akash](https://github.com/Nebal-akash)
-- [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build
+- [Kamrul Hossain](https://github.com/kamrullab) - EliteKamrul | Code • Learn • Build • Develop
 - [APH](https://github.com/AungPhyo774)
 - [Sheetal Jatav](https://github.com/sheetaljatav)
 - [apoptonic]
